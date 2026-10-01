@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="840" height="270" viewBox="0 0 840 270">
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; }
+    .h  { fill: #FFB000; font-size: 14px; font-weight: 700; }
+    .t  { fill: #E6E9EF; font-size: 12px; }
+    .d  { fill: #7F93AD; font-size: 11px; }
+  </style>
+  <!-- riel DIN -->
+  <rect x="0" y="122" width="840" height="26" fill="#1B2A40"/>
+  <rect x="0" y="128" width="840" height="14" fill="#24364F"/>
+
+  <g id="m1">
+    <rect x="14" y="10" width="194" height="250" rx="6" fill="#0E1A2B" stroke="#3A4E6B" stroke-width="2"/>
+    <g fill="#24364F"><circle cx="44" cy="30" r="7"/><circle cx="74" cy="30" r="7"/><circle cx="104" cy="30" r="7"/><circle cx="44" cy="240" r="7"/><circle cx="74" cy="240" r="7"/><circle cx="104" cy="240" r="7"/></g>
+    <circle cx="186" cy="30" r="5" fill="#FFB000"/>
+    <text x="30" y="70"  class="mono h">Motor DC</text>
+    <text x="30" y="90"  class="mono d">control de velocidad</text>
+    <text x="30" y="172" class="mono t">Arduino Mega</text>
+    <text x="30" y="190" class="mono t">sensor Hall · L298N</text>
+    <text x="30" y="208" class="mono t">PWM · MATLAB</text>
+  </g>
+  <g id="m2">
+    <rect x="222" y="10" width="194" height="250" rx="6" fill="#0E1A2B" stroke="#3A4E6B" stroke-width="2"/>
+    <g fill="#24364F"><circle cx="252" cy="30" r="7"/><circle cx="282" cy="30" r="7"/><circle cx="312" cy="30" r="7"/><circle cx="252" cy="240" r="7"/><circle cx="282" cy="240" r="7"/><circle cx="312" cy="240" r="7"/></g>
+    <circle cx="394" cy="30" r="5" fill="#5FD3E6"/>
+    <text x="238" y="70"  class="mono h">Minisumo</text>
+    <text x="238" y="90"  class="mono d">robot autónomo</text>
+    <text x="238" y="172" class="mono t">ESP32</text>
+    <text x="238" y="190" class="mono t">VL53L0X · QRE113</text>
+    <text x="238" y="208" class="mono t">L298N · LiPo</text>
+  </g>
+  <g id="m3">
+    <rect x="430" y="10" width="194" height="250" rx="6" fill="#0E1A2B" stroke="#3A4E6B" stroke-width="2"/>
+    <g fill="#24364F"><circle cx="460" cy="30" r="7"/><circle cx="490" cy="30" r="7"/><circle cx="520" cy="30" r="7"/><circle cx="460" cy="240" r="7"/><circle cx="490" cy="240" r="7"/><circle cx="520" cy="240" r="7"/></g>
+    <circle cx="602" cy="30" r="5" fill="#FFB000"/>
+    <text x="446" y="70"  class="mono h">Riego FPGA</text>
+    <text x="446" y="90"  class="mono d">máquina de estados</text>
+    <text x="446" y="172" class="mono t">Spartan-7</text>
+    <text x="446" y="190" class="mono t">VHDL · Vivado</text>
+  </g>
+  <g id="m4">
+    <rect x="638" y="10" width="188" height="250" rx="6" fill="#0E1A2B" stroke="#3A4E6B" stroke-width="2"/>
+    <g fill="#24364F"><circle cx="668" cy="30" r="7"/><circle cx="698" cy="30" r="7"/><circle cx="728" cy="30" r="7"/><circle cx="668" cy="240" r="7"/><circle cx="698" cy="240" r="7"/><circle cx="728" cy="240" r="7"/></g>
+    <circle cx="804" cy="30" r="5" fill="#5FD3E6"/>
+    <text x="654" y="70"  class="mono h">Banda PLC</text>
+    <text x="654" y="90"  class="mono d">prototipo didáctico</text>
+    <text x="654" y="172" class="mono t">PLC · sensores</text>
+    <text x="654" y="190" class="mono t">transportadora</text>
+  </g>
+</svg>
