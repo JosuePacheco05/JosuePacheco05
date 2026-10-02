@@ -51,4 +51,4 @@ Estudio Ingeniería Mecatrónica en la UPIIH del IPN. Me enfoco en control y sis
 
 ## Contacto
 
-<a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-07120A?style=for-the-badge&logo=linkedin&logoColor=33FF66"/></a>
+<a href="https://www.linkedin.com/in/josue-emiliano-pacheco-díaz-636578187/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-07120A?style=for-the-badge&logo=linkedin&logoColor=33FF66"/></a>
